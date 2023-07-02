@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ArcticApplication<arctic>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Manipulus.arctic.ArcticApplication",
+            "projectName": "arctic",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
